@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nicedevelopments.github.io/haushaltsbuch/sitemap.xml
+Sitemap: https://nicedevelopments.github.io/stay-awake/sitemap.xml
